@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Browser</title>
+</head>
+
+<body>
+  <!--Nav Bar-->
+  <nav style="background:#381818; color:white; display:flex; justify-content:space-between; 
+  align-items:center; padding:10px 20px; position:sticky; top:0; z-index:1000;">
+    <h1 style="margin:0;">My Portofolio</h1>
+    <ul style="list-style:none; display:flex; margin:0; padding:0;">
+      
+      <li style="margin:0 15px; "><a href="#home" style="color:white; text-decoration:none; font-weight:bold; cursor:pointer;"
+      onclick="this.style.color='black';">Home</a></li>
+      
+      <li style="margin:0 15px; "><a href="#project" style="color:white; text-decoration:none; font-weight:bold; cursor:pointer;"
+      onclick="this.style.color='black';">Projects</a></li>
+
+      <li style="margin:0 15px; "><a href="#services" style="color:white; text-decoration:none; font-weight:bold; cursor:pointer;"
+      onclick="this.style.color='black';">Services</a></li>
+
+      <li style="margin:0 15px; "><a href="#contactd" style="color:white; text-decoration:none; font-weight:bold; cursor:pointer;"
+      onclick="this.style.color='black';">Contacts</a></li>
+    </ul>
+  </nav>
+  
+</body>
+
+</html>
