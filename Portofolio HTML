@@ -23,7 +23,7 @@
       <li style="margin:0 15px; "><a href="#services" style="color:white; text-decoration:none; font-weight:bold; cursor:pointer;"
       onclick="this.style.color='black';">Services</a></li>
 
-      <li style="margin:0 15px; "><a href="#contactd" style="color:white; text-decoration:none; font-weight:bold; cursor:pointer;"
+      <li style="margin:0 15px; "><a href="#contacts" style="color:white; text-decoration:none; font-weight:bold; cursor:pointer;"
       onclick="this.style.color='black';">Contacts</a></li>
     </ul>
   </nav>
